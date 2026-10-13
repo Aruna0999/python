@@ -27,31 +27,31 @@ ValueError: too many values to unpack (expected 3, got 5)
 >>> a,b,c=(3,4,5)
 >>> print(a,b,c)
 3 4 5
->>> first name="prasanna"
+>>> first name="aruna"
 SyntaxError: invalid syntax
->>> first_name="prasanna"
+>>> first_name="aruna"
 >>> print(first_name)
-prasanna
->>> firstname="prasanna"
+aruna
+>>> firstname="aruna"
 >>> print(firstname)
-prasanna
->>> fname="lakshmi"
->>> lname="prasanna"
+Aruna
+>>> fname="Aruna"
+>>> lname="Jyothi"
 >>> print(fname+lname)
-lakshmiprasanna
+ArunaJyothi
 >>> print(fname+" "+lname)
-lakshmi prasanna
+Aruna Jyothi
 >>> print(fname,lname)
-lakshmi prasanna
->>> name="prasanna"
+Aruna Jyothi
+>>> name="aruna"
 >>> print(name)
-prasanna
->>> NAME="prasanna"
+aruna
+>>> NAME="aruna"
 >>> print(NAME)
-prasanna
->>> Name="prasanna"
+aruna
+>>> Name="Aruna"
 >>> print(Name)
-prasanna
+Aruna
 >>> a=4
 >>> print(a)
 4
