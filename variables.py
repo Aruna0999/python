@@ -31,9 +31,9 @@ SyntaxError: invalid decimal literal
 a0123456789=100
 print(a0123456789)
 100
-name="prasanna"
+name="aruna"
 print(name)
-prasanna
+aruna
 print("name")
 name
 city="vja"
