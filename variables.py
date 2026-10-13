@@ -50,9 +50,9 @@ SyntaxError: invalid syntax. Maybe you meant '==' or ':=' instead of '='?
 >>> _b=100
 >>> print(_)
 20
->>> mailid="prasanna@gmail.com"
+>>> mailid="aruna319355@gmail.com"
 >>> print(mailid)
-prasanna@gmail.com
+aruna319355@gmail.com
 >>> if=30
 SyntaxError: invalid syntax
 >>> elif=70
