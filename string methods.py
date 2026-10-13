@@ -52,11 +52,11 @@ print(a)
 name
 mobile	mailid
 clg
-b="name:prasanna\nmobileno:7330911992\tmailid:prasannatalla18@gmail.com\nclg:SCET"
+b="name:aruna\nmobileno:7207642566\tmailid:aruna319355@gmail.com\nclg:"Acharya nagarjuna university"
 print(b)
-name:prasanna
-mobileno:7330911992	mailid:prasannatalla18@gmail.com
-clg:SCET
+name:aruna
+mobileno:7207642566	mailid:aruna319355@gmail.com
+clg:Acharya nagarjuna university
 #replace
 a="wait until you succeed"
 a.replace("wait",work)
@@ -124,10 +124,10 @@ d.isdigit()
 True
 d.isalnum()
 True
-e="prasanna123"
+e="aruna123"
 e.isalnum()
 True
-f="prasann@123"
+f="arun@123"
 f.isalnum()
 False
 #
@@ -140,13 +140,13 @@ a.endswith("n")
 True
 #strip()
 #lstrip(),rstrip()
-a="                 prasanna            "
+a="                 aruna            "
 a.strip()
-'prasanna'
+'aruna'
 a.lstrip()
-'prasanna            '
+'aruna            '
 a.rstrip()
-'                 prasanna'
+'                 aruna'
 #split()
 a="python java c c++"
 a.split()
@@ -175,16 +175,16 @@ print(a+b)
 helloworld
 print(a+" "+b)
 hello world
-fname="prasanna"
-lname="talla"
+fname="aruna"
+lname="chinta"
 print(fname+lname)
-prasannatalla
+arunachinta
 print(fname+" "+lname)
-prasanna talla
+aruna chinta
 print(fname.title()+" "+lname.title())
-Prasanna Talla
+Aruna Chinta
 print((fname+" "+lname).title())
-Prasanna Talla
+Aruna Chinta
 #formatting
 a=4
 b=8
